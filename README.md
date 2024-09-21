@@ -1,4 +1,4 @@
-![logo](cover.png)
+![logo](cover1.png)
 <h1 align="center">Hi 👋, I'm Shuvankar Dhara</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="mystyle.gif">
