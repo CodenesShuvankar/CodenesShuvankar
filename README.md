@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask , pytorch , TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hacker-Shuvankar/Hacker-Shuvankar](https://github.com/Hacker-Shuvankar/Hacker-Shuvankar)
+- 👨‍💻 All of my projects are available at https://shuvankar-portfolio.netlify.app
 
 - 💬 Ask me about **Python , Machine Learning , Hackathon**
 
