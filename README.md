@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask , pytorch , TensorFlow**
 
-- 👨‍💻 All of my projects are available at https://shuvankardhara.netlify.app
+- 👨‍💻 All of my projects are available at https://codenesshuvankar.netlify.app
 
 - 💬 Ask me about **Python , Machine Learning , Hackathon**
 
